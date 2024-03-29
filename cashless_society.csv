@@ -1,0 +1,186 @@
+Age,Gender,Occupation,Income,Shopping_freq,Paybills_freq,Payrent_freq,Motivation,Knowing_features,Impact
+21-25,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Cash,Security,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Mobile Wallet,Credit card/Debit card,Cash,Other (please specify),Very well-informed,Not sure
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,Other (please specify),Neutral,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Mobile Wallet,Cash,Cash,Convenience,Somewhat well-informed,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Credit card/Debit card,Credit card/Debit card,Cash,Security,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Somewhat well-informed,Positive impact
+21-25,Female,Student,"10,000-20,000 BDT",Cash,Credit card/Debit card,Mobile Wallet,Security,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Credit card/Debit card,Cash,Other (please specify),Neutral,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,Convenience,Somewhat well-informed,Positive impact
+21-25,Male,Student,"Above 50,000 BDT",Cash,Cash,Cash,"Incentives (e.g., discounts, rewards)",Very uninformed,Negative impact
+21-25,Female,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Convenience,Somewhat well-informed,Positive impact
+21-25,Male,Employed,"30,000-40,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Convenience,Somewhat well-informed,Negative impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Neutral,Not sure
+21-25,Male,Unemployed,"20,000-30,000 BDT",Credit card/Debit card,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Security,Somewhat well-informed,Positive impact
+21-25,Female,Self-employed,"20,000-30,000 BDT",Credit card/Debit card,Credit card/Debit card,Cash,Security,Very well-informed,Not sure
+26-30,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Credit card/Debit card,Cash,Cash,Other (please specify),Very uninformed,Not sure
+26-30,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Convenience,Neutral,Not sure
+36-40,Male,Employed,"Above 50,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Security,Neutral,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Not sure
+26-30,Male,Employed,"30,000-40,000 BDT",Cash,Mobile Wallet,Cash,"Incentives (e.g., discounts, rewards)",Neutral,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,"Incentives (e.g., discounts, rewards)",Somewhat well-informed,Positive impact
+26-30,Female,Student,"10,000-20,000 BDT",Cash,Credit card/Debit card,Credit card/Debit card,Security,Neutral,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Positive impact
+26-30,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Mobile Wallet,Convenience,Very well-informed,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Credit card/Debit card,Credit card/Debit card,Cash,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Mobile Wallet,Cash,Mobile Wallet,Security,Very well-informed,Not sure
+21-25,Female,Student,"10,000-20,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,"Incentives (e.g., discounts, rewards)",Somewhat well-informed,Positive impact
+26-30,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Positive impact
+21-25,Female,Employed,"30,000-40,000 BDT",Cash,Cash,Cash,Security,Somewhat well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,Other (please specify),Somewhat well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Mobile Wallet,Convenience,Very well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Credit card/Debit card,Security,Somewhat well-informed,Positive impact
+26-30,Male,Student,"20,000-30,000 BDT",Cash,Cash,Cash,Security,Neutral,Positive impact
+21-25,Male,Employed,"10,000-20,000 BDT",Credit card/Debit card,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Credit card/Debit card,Cash,Cash,Security,Very well-informed,Positive impact
+21-25,Male,Employed,"20,000-30,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Security,Very well-informed,Positive impact
+21-25,Female,Student,"20,000-30,000 BDT",Cash,Cash,Cash,Other (please specify),Somewhat well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Somewhat well-informed,Positive impact
+21-25,Female,Student,"20,000-30,000 BDT",Cash,Cash,Cash,Security,Somewhat well-informed,Not sure
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Convenience,Neutral,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Cash,Security,Neutral,Positive impact
+21-25,Female,Employed,"10,000-20,000 BDT",Credit card/Debit card,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Positive impact
+21-25,Male,Student,"10,000-20,000 BDT",Cash,Mobile Wallet,Cash,Convenience,Somewhat well-informed,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very uninformed,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,"Incentives (e.g., discounts, rewards)",Neutral,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Somewhat well-informed,Positive impact
+15-20,Male,Student,"10,000-20,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Security,Somewhat well-informed,Positive impact
+26-30,Male,Employed,"20,000-30,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Convenience,Neutral,Positive impact
+21-25,Male,Student,"10,000-20,000 BDT",Credit card/Debit card,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Somewhat well-informed,Positive impact
+31-35,Male,Student,"Above 50,000 BDT",Credit card/Debit card,Mobile Wallet,Mobile Wallet,Convenience,Very well-informed,Positive impact
+26-30,Male,Self-employed,"10,000-20,000 BDT",Mobile Wallet,Mobile Wallet,Cash,Convenience,Somewhat well-informed,Not sure
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Very well-informed,Positive impact
+21-25,Male,Student,"Above 50,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Other (please specify),Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Credit card/Debit card,Credit card/Debit card,Cash,Security,Very well-informed,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Somewhat uninformed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Credit card/Debit card,Mobile Wallet,Cash,Convenience,Somewhat well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Somewhat well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,Security,Neutral,Not sure
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Mobile Wallet,Security,Very well-informed,Negative impact
+21-25,Male,Student,"Above 50,000 BDT",Credit card/Debit card,Mobile Wallet,Cash,Other (please specify),Neutral,Not sure
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Government initiatives,Very well-informed,Positive impact
+26-30,Male,Employed,"40,000-50,000 BDT",Cash,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very uninformed,No significant impact
+26-30,Male,Employed,"20,000-30,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,No significant impact
+21-25,Male,Student,"10,000-20,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Other (please specify),Neutral,Not sure
+21-25,Male,Student,"10,000-20,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Convenience,Somewhat well-informed,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Very well-informed,Not sure
+21-25,Male,Student,"20,000-30,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Security,Very well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Neutral,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,Other (please specify),Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Not sure
+21-25,Male,Student,"10,000-20,000 BDT",Credit card/Debit card,Credit card/Debit card,Cash,Convenience,Very well-informed,Positive impact
+21-25,Male,Employed,"Above 50,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Other (please specify),Very well-informed,Positive impact
+21-25,Male,Student,"10,000-20,000 BDT",Credit card/Debit card,Cash,Cash,Security,Neutral,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Convenience,Somewhat well-informed,Positive impact
+21-25,Male,Student,"10,000-20,000 BDT",Credit card/Debit card,Cash,Cash,Security,Neutral,Positive impact
+21-25,Male,Student,"40,000-50,000 BDT",Mobile Wallet,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Negative impact
+21-25,Male,Student,"Above 50,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Neutral,Positive impact
+26-30,Male,Self-employed,"20,000-30,000 BDT",Cash,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Government initiatives,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,Convenience,Somewhat well-informed,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Credit card/Debit card,Security,Very well-informed,Positive impact
+21-25,Male,Student,"10,000-20,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Not sure
+26-30,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Cash,Security,Very well-informed,Positive impact
+21-25,Male,Student,"Above 50,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Security,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Credit card/Debit card,Cash,Cash,Security,Very well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Not sure
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Somewhat well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Not sure
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Somewhat uninformed,Positive impact
+21-25,Male,Student,"10,000-20,000 BDT",Cash,Cash,Cash,Convenience,Neutral,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Mobile Wallet,Cash,Mobile Wallet,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,Other (please specify),Neutral,Not sure
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,"Incentives (e.g., discounts, rewards)",Neutral,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Other (please specify),Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Somewhat well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,"Incentives (e.g., discounts, rewards)",Somewhat well-informed,No significant impact
+26-30,Male,Unemployed,"Below 10,000 BDT",Cash,Cash,Cash,Security,Somewhat well-informed,Positive impact
+15-20,Female,Student,"Above 50,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Positive impact
+21-25,Male,Student,"10,000-20,000 BDT",Mobile Wallet,Mobile Wallet,Cash,Security,Very well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,Convenience,Somewhat well-informed,No significant impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Very uninformed,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Mobile Wallet,Security,Very well-informed,Not sure
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Convenience,Somewhat well-informed,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Positive impact
+21-25,Female,Student,"10,000-20,000 BDT",Cash,Cash,Cash,"Incentives (e.g., discounts, rewards)",Somewhat well-informed,Not sure
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Not sure
+26-30,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Security,Very well-informed,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Security,Very well-informed,Positive impact
+26-30,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Security,Very well-informed,Negative impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Cash,Security,Somewhat well-informed,Positive impact
+31-35,Female,Unemployed,"Below 10,000 BDT",Cash,Cash,Cash,Government initiatives,Somewhat uninformed,Not sure
+15-20,Male,Student,"20,000-30,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Government initiatives,Neutral,No significant impact
+15-20,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Government initiatives,Neutral,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Somewhat well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Government initiatives,Neutral,Positive impact
+26-30,Male,Employed,"Above 50,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Convenience,Very well-informed,Negative impact
+21-25,Male,Student,"10,000-20,000 BDT",Credit card/Debit card,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+15-20,Male,Student,"Above 50,000 BDT",Cash,Mobile Wallet,Cash,"Incentives (e.g., discounts, rewards)",Very well-informed,Positive impact
+21-25,Male,Employed,"30,000-40,000 BDT",Credit card/Debit card,Credit card/Debit card,Cash,Convenience,Neutral,Positive impact
+26-30,Male,Self-employed,"20,000-30,000 BDT",Mobile Wallet,Mobile Wallet,Cash,Convenience,Very well-informed,Positive impact
+26-30,Male,Student,"10,000-20,000 BDT",Cash,Cash,Cash,Convenience,Very well-informed,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Neutral,No significant impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Very uninformed,Not sure
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Convenience,Very well-informed,Positive impact
+21-25,Male,Employed,"10,000-20,000 BDT",Cash,Cash,Cash,Security,Somewhat uninformed,No significant impact
+21-25,Male,Student,"30,000-40,000 BDT",Cash,Cash,Cash,Security,Neutral,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Mobile Wallet,Security,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Somewhat well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Neutral,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Mobile Wallet,Cash,Cash,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Mobile Wallet,Convenience,Very well-informed,Positive impact
+21-25,Male,Student,"Above 50,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Negative impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Positive impact
+15-20,Male,Student,"10,000-20,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Positive impact
+26-30,Male,Employed,"30,000-40,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Security,Very well-informed,Positive impact
+21-25,Female,Student,"20,000-30,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Security,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Security,Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,Security,Somewhat well-informed,Positive impact
+31-35,Male,Employed,"20,000-30,000 BDT",Cash,Credit card/Debit card,Cash,Security,Very well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,"Incentives (e.g., discounts, rewards)",Neutral,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Credit card/Debit card,Other (please specify),Neutral,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Credit card/Debit card,Credit card/Debit card,Credit card/Debit card,Security,Somewhat well-informed,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Neutral,Not sure
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Mobile Wallet,Security,Somewhat uninformed,Negative impact
+21-25,Female,Student,"10,000-20,000 BDT",Cash,Cash,Cash,Other (please specify),Somewhat well-informed,Not sure
+15-20,Male,Student,"Below 10,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Security,Very well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very well-informed,No significant impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Very well-informed,Positive impact
+15-20,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Very well-informed,Positive impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Mobile Wallet,Convenience,Somewhat well-informed,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Somewhat well-informed,Positive impact
+15-20,Male,Student,"40,000-50,000 BDT",Mobile Wallet,Mobile Wallet,Mobile Wallet,Convenience,Neutral,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Somewhat well-informed,Negative impact
+21-25,Female,Student,"Below 10,000 BDT",Cash,Cash,Cash,Other (please specify),Very well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Mobile Wallet,Convenience,Somewhat well-informed,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Cash,Convenience,Somewhat well-informed,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Mobile Wallet,Mobile Wallet,Other (please specify),Neutral,No significant impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Convenience,Somewhat well-informed,Positive impact
+21-25,Male,Student,"Above 50,000 BDT",Cash,Cash,Mobile Wallet,Security,Somewhat well-informed,Positive impact
+15-20,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Neutral,Not sure
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Cash,Security,Somewhat well-informed,Positive impact
+21-25,Male,Student,"Below 10,000 BDT",Cash,Cash,Mobile Wallet,Convenience,Somewhat well-informed,Positive impact
